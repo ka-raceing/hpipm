@@ -1,3 +1,5 @@
+**NOTE:** This is just a fork of the regular [OSQP Repository](https://github.com/osqp/osqp) reset to a specific commit to provide a stable base for our custom [ROS Docker Image](https://github.com/ka-raceing/ROS-Docker)
+
 This is HPIPM, a high-performance interior-point method solver for dense, optimal control- and tree-structured convex quadratic programs.
 It provides efficient implementations of dense and structure-exploiting algorithms to solve small to medium scale problems arising in model predictive control and embedded optimization in general and it relies on the high-performance linear algebra package BLASFEO.
 
